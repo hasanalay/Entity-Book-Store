@@ -1,0 +1,1 @@
+In this project ı am going to use Entity Framework to store data in postgre sql database. 
